@@ -2,10 +2,6 @@ hi buddy cool
 
 csk win
 
-<<<<<<< HEAD
 mi loss
 
 dc loss
-=======
-mi loss
->>>>>>> d4bbffd (mi win)
